@@ -18,4 +18,4 @@ TODO
 * https://flutter.dev/
 
 
-by [Muhammad Fareez Iqmal](https://iqfareez.com/)
+Authored, maintained by [Muhammad Fareez Iqmal](https://iqfareez.com/)
