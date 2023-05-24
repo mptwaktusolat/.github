@@ -13,9 +13,11 @@ Welcome to Malaysia Prayer Times collections.
 
 TODO
 
+### Related Projects
+- Very basic prayer time app for Windows: https://github.com/iqfareez/WaktuSolatWinforms
+
 ### Useful resources 
 
 * https://flutter.dev/
-
 
 Authored, maintained by [Muhammad Fareez Iqmal](https://iqfareez.com/)
