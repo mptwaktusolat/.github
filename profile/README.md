@@ -1,3 +1,5 @@
+![GitHub Org Readme Banner](https://github.com/user-attachments/assets/ca489893-5a6d-4a13-9247-91dff084b53d)
+
 ## Assalamualaikum. Hi there 👋
 
 Welcome to Malaysia Prayer Times (MPT) repositories.
