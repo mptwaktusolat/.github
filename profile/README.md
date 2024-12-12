@@ -1,21 +1,28 @@
-## Hi there 👋
+## Assalamualaikum. Hi there 👋
 
-Welcome to Malaysia Prayer Times collections.
+Welcome to Malaysia Prayer Times (MPT) repositories.
 
-1. Main Android App [app_waktu_solat_malaysia](https://github.com/mptwaktusolat/app_waktu_solat_malaysia)
+Below is the MPT'S architecture overview.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/666dfbbd-dd78-4665-b8ce-4fd61429aa58">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/bdcac7ac-6875-4347-9d27-274a2031a833">
+  <img alt="Shows a architecture diagram of Malaysia Prayer Time app & servers" src="https://github.com/user-attachments/assets/bdcac7ac-6875-4347-9d27-274a2031a833">
+</picture>
+
+1. Mobile App [app_waktu_solat_malaysia](https://github.com/mptwaktusolat/app_waktu_solat_malaysia)
+1. Waktu Solat API server [api-waktusolat](https://github.com/mptwaktusolat/api-waktusolat)
+1. Website & landing page [waktusolat-site](https://github.com/mptwaktusolat/waktusolat-site)
 1. Web app (legacy) [mpt_web_app_legacy](https://github.com/mptwaktusolat/mpt_web_app_legacy)
-1. Waktu Solat API server [mpt-server](https://github.com/mptwaktusolat/mpt-server)
-1. Website & landing page (new) [waktusolat-site](https://github.com/mptwaktusolat/waktusolat-site)
 1. Website & landing page (legacy - now act as features docs) [mpt-website](https://github.com/mptwaktusolat/mpt-website)
+1. and more.. Discover all respositories below.
 
-**Malaysia Prayer Times** app (**App Waktu Solat Malaysia**) enables peoples, especially Malaysian to view prayer times in their zones. This GitHub organization (_mptwaktusolat_) is created to organize and gather all the repositories related to the app.
 
 ### Contribution guidelines
 
 TODO
 
-### Related Projects
-- Very basic prayer time app for Windows: https://github.com/iqfareez/WaktuSolatWinforms
+We welcome contributions from the community and are always eager to hear from users with [feature requests and bug reports](https://github.com/mptwaktusolat/app_waktu_solat_malaysia/issues). 
 
 ### Useful resources 
 
