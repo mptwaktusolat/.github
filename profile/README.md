@@ -4,13 +4,9 @@
 
 Welcome to Malaysia Prayer Times (MPT) repositories.
 
-Below is the MPT'S architecture overview.
+Below is simple overview of the MPT'S architecture.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/666dfbbd-dd78-4665-b8ce-4fd61429aa58">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/bdcac7ac-6875-4347-9d27-274a2031a833">
-  <img alt="Shows a architecture diagram of Malaysia Prayer Time app & servers" src="https://github.com/user-attachments/assets/bdcac7ac-6875-4347-9d27-274a2031a833">
-</picture>
+<img width="3596" height="2205" alt="isoflow-export-2025-11-23T01_26_21 812Z" src="https://github.com/user-attachments/assets/0b4825e8-1809-42ae-be17-6d33999186fc" />
 
 1. Mobile App [app_waktu_solat_malaysia](https://github.com/mptwaktusolat/app_waktu_solat_malaysia)
 1. Waktu Solat API server [api-waktusolat](https://github.com/mptwaktusolat/api-waktusolat-x)
